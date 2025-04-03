@@ -1,0 +1,17 @@
+ESSE PROJETO É UM TRABALHO EM PROGRESSO.
+
+
+OBJETIVO: 
+
+O objetivo que esse projeto busca atingir, é produzir um sistema operacional que suporte um dispositivo computacional com características de uso geral, como por exemplo fácil expansibilidade de hardware, execução de códigos arbitrarios atravéz de um interpretador, dentre
+outras.
+
+INTERPRETADOR:
+
+O sistema operacional conta com um interpretador que irá rodar uma linguagem similar a C. As variáveis serão armazenadas na memória ram do microcontrolador.
+
+
+EXPANSÃO DE HARDWARE:
+
+O sistema operacional dará suporte a um bus de uso geral de 8 bits de largura de transmissão de dados com um protocolo compreensível.
+
