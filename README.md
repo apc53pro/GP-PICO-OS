@@ -13,5 +13,5 @@ O sistema operacional conta com um interpretador que irá rodar uma linguagem si
 
 EXPANSÃO DE HARDWARE:
 
-O sistema operacional dará suporte a um bus de uso geral de 8 bits de largura de transmissão de dados com um protocolo compreensível.
+to-do.
 
