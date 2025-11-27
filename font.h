@@ -2,8 +2,8 @@
 #include "pico/platform.h"
 #include "Arduino.h"
 
-#ifndef MY_FUNCTIONS_H
-#define MY_FUNCTIONS_H
-
+#ifndef FONT_H
+#define FONT_H
+void fillMemoryWithFont();
 
 #endif
